@@ -1,0 +1,17 @@
+{
+	"name": "projectsonartutorial",
+	"version": "1.0.0",
+	"description": "Project Sonar Tutorial",
+	"type": "module",
+	"main": "index.js",
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "James McKee",
+	"license": "ISC",
+	"dependencies": {
+		"mongodb": "^4.3.1",
+		"tldts-experimental": "^5.7.60"
+	}
+}
